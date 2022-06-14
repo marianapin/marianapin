@@ -1,0 +1,3 @@
+- 👋 OII,eu sou a mari 
+- 👀 estou interessada em computação e programação
+- 💞️ no momrnto ja aprendi um pouco pelo alura
